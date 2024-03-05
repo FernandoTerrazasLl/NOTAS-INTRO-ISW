@@ -1,0 +1,65 @@
+						CLASE 3	
+<<<<<<< HEAD
+$$$$##APRENDER ORDEN DEL CICLO DE DESAROLLO-EXAMEN%%%
+=======
+$$$$--##APRENDER ORDEN DEL CICLO DE DESAROLLO-EXAMEN--%%%--DIFERENCIA PROYECTO DE SFOTWARE Y DESAROLLO DE UN SOFTWARE.--$$##$
+>>>>>>> 6382d16 (Subiendo clase 6)
+Software: programas digitales
+Ing. software: disciplina que nos enseña como hacer un software
+Proceso del software: ciclo para hacer un software
+git: control de versiones para guardar codigo
+programacion: escribir codigo
+lenguaje de programacion: idioma para hablar con la computadora
+ 
+<<<<<<< HEAD
+¿Como comenzar un proyecto de softwawre?
+=======
+¿Como comenzar un proyecto de software?
+>>>>>>> 6382d16 (Subiendo clase 6)
+-Necesito saber que necesita el cliente. Hacerle un docuemnto de especificacion de requisitos 
+de software una descripcion detallada de lo que hara un software y como deberia funcionar.
+	¿Que es un docuento de especificacion de requisitos de software?
+	Enumeran los requisitos , las expectativas , el diseño y los estandares de un proyecto futuro. Incluye
+	requerimineto comerciales que rigen al objetivo del proyecto, los requisitos y necesidades de los usuarios finales
+	y la funcionalidad de producto. 
+	Conviene usarlo porque te ahorras tiempo, ademas es un eleemtno dinamico (puede cambiar durante el proyecto)
+	En nuestra industria es normal que nos pasemos de tiempo y costo, por eso es importantes	
+	
+<<<<<<< HEAD
+	1 Introduccion- Para que es este documento y porque? ¿Como se usara?
+	1.1 Alcance del producto- ¿Cuales son los objetivos comerciales generales de tu producto?
+	1.2 Valor del producto- ¿Por que tu producto es importante? ¿Que benefiio le aportara a tu publico objetivo?
+	1.3 Publico objetivo- ¿A quien esta destinado tu producto?
+	1.4 Uso previsto- ¿Para que se utilizara este producto? Explica como usar tu software
+	1.5 Descripcion general- Redacta resumen
+=======
+	# 1 Introduccion- Para que es este documento y porque? ¿Como se usara?
+	# 1.1 Alcance del producto- ¿Cuales son los objetivos comerciales generales de tu producto?
+	# 1.2 Valor del producto- ¿Por que tu producto es importante? ¿Que benefiio le aportara a tu publico objetivo?
+	# 1.3 Publico objetivo- ¿A quien esta destinado tu producto?
+	# 1.4 Uso previsto- ¿Para que se utilizara este producto? Explica como usar tu software
+	# 1.5 Descripcion general- Redacta resumen
+>>>>>>> 6382d16 (Subiendo clase 6)
+	
+Sintaxis de lenguaje de marcado (Markdown)
+Lenguaje Markdown: Markdown es un lenguaje de marcado que facilita la aplicación de formato a un texto
+git branches:(Se separa la rama principal creando ramas que cada programador usa, despues las mezclan en una)
+Github: 
+Wikis: Es un conjunto de notas diseñado que pueden vincularlas entre si para compartir ideas.
+Github pages: Puedes subir una pagina web
+Sitio web: Es un conjunto de paginas web
+Pagina web: documento o información electrónica accesible a traves del internet
+
+Introduccion a gestion de proyectos pequeños
+-gestionar: que podamos lograra hacer algo para permitir que se cumpla algo que deseamos
+-proyecto: conjunto de documentos para poder presentar una obra
+-Gesiton de proyectos: Coordinacion de procesos, herramientas, miembros de equipo, y las habilidades para que puedas 
+ entregar proyectos que superen tus objetivos. Ademas capacitar y gestionar a tu equipo dandole objetivos claros.
+-Metodologia: Conjunto de reglas y procesos para saber como gestionar el proyecto
+
+Pasos para comenzar un proyecto
+Autorizar del proyecto: apoyados por un patrocinador
+Definir el alcance: Un plan para ver que trabajo se requiere (Software)
+Desarrollar el cronograma: Duracion del proyecto
+Informar del estado: comunicar el estado del proyecto cada cierto tiempo
+Cerrar el proyecto

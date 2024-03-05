@@ -1,0 +1,59 @@
+Documento de especificacion de requisitos de Software.-
+
+# 1. Introduccion
+
+## 1.1 Alcance del producto
+Listas de tareas:
+- Buscar recursos graficos (foto de perfil, imagen de fondo)
+- Escoger paleta de colores
+Info del Cliente
+- Buscar informacion del perfil del cliente
+- Buscar redes sociales
+- Buscar productos y servivios a vender del cliente
+
+Beneficios:
+- Mayor alcance al publico
+- Informacion detallada de sus productos y servicios, con facil acceso al usuario
+
+Objetivo General:
+- Crear una pagina sencillo de acceso directo a sus mejores produtos o servicios para generar mayores ventas al cliente.
+
+Objetivos Especificos:
+- Establecer las metricas a evaluar
+- Componer los reportes de metricas
+- Componer su pagina estilo Linktree
+
+Metas:
+- Una pagina web estilo Linktree
+- Reportes mensuales de las metricas de la pagina
+
+## 1.2 Valor del productos
+- Mayor alcance al publico
+- Informacion detallada de sus productos y servicios, con facil acceso al usuario
+
+## 1.3 Publico objetivo
+Publico joven entre 14 y 25 años, mayormente hombres.
+
+## 1.4 Uso previsto
+El publico objetivo tendra mayor facilidad y comodidad y facil acceso a los links de los productos que mas les gusta comprar
+
+## 1.5 Descripcion general
+
+PASOS
+Tarea 1: Reunión para definir los objetivos y alcances de la página de Linktree.
+Tarea 2: Recopilación de enlaces y contenido que se incluirán en la página.
+Tarea 3: Diseño de la estructura de la página de Linktree.
+Tarea 4: Creación de cuentas necesarias (por ejemplo, Linktree y otras plataformas asociadas).
+Tarea 5: Configuración de la cuenta de Linktree.
+Tarea 6: Personalización de la página de Linktree con colores, imágenes y otros elementos visuales.
+Tarea 7: Inclusión de enlaces recopilados y contenido en la página de Linktree.
+Tarea 8: Revisión para asegurarse de que todos los enlaces estén funcionando correctamente.
+Tarea 9: Revisión general de la página de Linktree.
+Tarea 10: Realizar ajustes finales según los comentarios recibidos.
+Tarea 11: Realizar pruebas para asegurarse de que la página funciona correctamente en diferentes dispositivos y navegadores.
+Tarea 12: Validar la página con un grupo pequeño de usuarios o compañeros.
+Tarea 13: Desplegar la página de Linktree en vivo.
+Tarea 14: Promover la página en las redes sociales u otras plataformas.
+
+Mockup = plantilla/lienzo para diferentes sitios web con modificaciones
+CREAR UN DIAGRAMA GANG

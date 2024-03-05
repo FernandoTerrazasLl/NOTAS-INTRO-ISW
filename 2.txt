@@ -1,0 +1,13 @@
+							APUNTES CLASES 2
+
+PROGRAMACION.-Organizar unas secuencias de pasos ordenados a seguir para hacer cierta cosa u objetivos.
+	PROGRAMACION EN INFORMATICA.-Proceso de escribir codigo para resolver un problema en particular o para implementar una tarea especifica.
+LENGUAJE DE PROGRAMACION.-Es un idioma que las computadoras entienden.
+COMPILADOR.-Traductor intermediario para transformar codigo fuente en binario.
+CICLO DE DESAROLLO.- Proceso que se sigue para diseñar software
+	1.-Planning.- Nos presentan el problema
+	2.-Analysis.- Pensamos en como los resolveremos el problema
+	3.-Design.- Encontramos y planificamos la mejor solucion ya encontrada
+	4.-Implementation.- Codificamos
+	5.-Testing.- Probamos el codigo en nuestra computadora y en la del cliente
+	6.-Maintenance.- Arreglar los errores encontrados

@@ -1,0 +1,54 @@
+# Tarea conceptos git
+## Tener los siguientes conceptos con su propia definicion y una definicion formal:
+
+-Git init: 
+"Creará un nuevo repositorio local GIT. Usando git init [nombre del proyecto] También puedes crear 
+un repositorio dentro de un directorio especificando el nombre del proyecto."
+-Inicializa un repositorio git en una carpeta.
+
+-Git config:
+"Lo usas para establecer una configuración específica de usuario, podría ser el email, usuario o tipo de formato."
+-Añade una configuracion al programa git (nombre, email)
+
+-Git add: 
+"Lo usas para agregar archivos al área de de preparación."
+-Añades un archivo para pepararlo para subirlo a git
+
+-Git commit:
+"Lo usas para crear un cambio que se guardará en el directorio git."
+-Confirmas que quieres subir un archivo a git
+
+-Git push:
+"Lo usas para enviar confirmaciones a la rama maestra/principal del repositorio remoto."
+-Subes los archivos a la nube (github)
+
+-Git pull:
+"Lo usas para fusionar todos los cambios que hiciste en el repositorio local con el directorio de trabajo local."
+-Traes los cambios de github hacia tu git y los juntas en un archivo
+
+-Git Branch:
+"Permite crear una branch nueva"
+-Creas una rama nueva aparte de tu rama principal
+
+-Git checkout:
+"Nos permite crear ramas y navegar entre ellas."
+-Nos permite movernos entre las ramas creadas por git branch
+
+-Github:
+"Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador"
+-Es una plataforma que permite guardar codigo y trabajar colaborativamente con otras personas.
+
+-Github pages:
+"Servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript 
+directamente desde un repositorio en GitHub"
+-Plataforma que permite subir una pagina web estatica por usuario a traves de github
+
+-Wiki:
+"Es un sitio diseñado para que grupos de usuarios puedan crear páginas sencillas 
+y vincularlas entre sí para capturar y compartir ideas rápidamente."
+-Es un conjunto de notas diseñadas para vincularlas entre si y compartir ideas
+
+Platzi,2021
+Xataka, 2019
+GitHub Docs, 2024
+Microsoft, 2019
