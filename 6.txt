@@ -29,3 +29,4 @@ APARTE
 .gitignore, nombre de un doc txt para ignorar ciertos archivos escribiendo su nombre en una linea diferente
 
 PAGINA LINK GIT-https://docs.github.com/es/get-started
+Hacer tarea para el miercoles 6
