@@ -1,0 +1,52 @@
+## TAREA
+- Gestion de proyectos; La accion de organizar mediante pasos la elaboracion y planeacion de un proyecto de programacion
+"La gestión de proyectos de software hace referencia a la rama de la gestión de proyectos dedicada a la planificación, 
+programación, asignación de recursos, ejecución, seguimiento y entrega de proyectos de software y web.
+
+La gestión de proyectos en ingeniería de software difiere de la gestión de proyectos tradicional en que los proyectos 
+de software tienen un proceso de ciclo de vida único que requiere varias rondas de pruebas, actualizaciones y comentarios
+de los clientes." 
+
+- Control de versiones; Es un ejemplos de git, guarda los cambios anteriores de tu codigo por si los necesitas luego
+"Un sistema que nos permite registrar, monitorear y gestionar cambios realizados sobre un sistema de archivos local o 
+remoto, llevando un historial de cuándo, quién y para qué se han hecho los cambios."
+
+- Requerimientos de Software; Es un documento donde el programador y cliente se ponen de acuerdo de lo que hara el software a crear.
+"Son simplemente una descripción de lo que un programa de software en particular debe hacer. Actúan como pautas para 
+que los desarrolladores creen un producto funcional que satisfaga las necesidades de los usuarios."
+
+- Calidad en el software; Es la caracteristica que tiene un software de cumplir con los requisitos de software 
+"La totalidad de las características y propiedades de un producto de software que deben relacionarse con su 
+idoneidad para cumplir con requisitos específicos y previamente definidos."
+
+- Git branch; Se usa usualmente para ver las ramas que tenemos, crearlas y eliminarlas dependiendo de las flags
+"Se usa para listar, crear o borrar ramas."
+
+- Git checkout; Se usa siempre que quieras crear nuevas ramas y moverte entre ellas
+"Crea ramas y te ayuda a navegar entre ellas."
+
+- Git remote -v; Permite saber que repositorios de github estan conectados a nuestro git.
+"Te permite ver todos los repositorios remotos. El siguiente comando listará todas las conexiones junto con sus URLs"
+
+- Git clone; se usa para sacar una copia de un repositorio
+"Se usa para copiar un repositorio."
+
+- Git merge; se utiliza para mezclar la informacion de 2 ramas diferentes
+"Se usa para fusionar una rama con otra rama activa"
+
+- Git Fork; es una opcion de github para poder copiar un repositorio de otra persona a tu propio github
+"Creación de una copia de un repositorio en la cuenta de usuario"
+
+- Git switch; crea la rama y te mueve automaticamente
+"Cambie a una rama especificada. El árbol de trabajo y el índice son actualizado para que coincida con la rama. 
+Todas las confirmaciones nuevas se agregarán a la sugerencia de esta rama."
+
+
+BIBLIOGRAFIA
+B, G., & B, G. (2023, 4 mayo). Comandos de GIT básicos - guía completa. Tutoriales Hostinger. https://www.hostinger.es/tutoriales/comandos-de-git
+Garcia, J. (2023, 27 abril). ¿Qué es la calidad del software? | Definición. Tecno Simple. https://tecno-simple.com/que-es-la-calidad-del-software-definicion/#Definicion_segun_la_norma_ISO
+Git - git-switch Documentation. (s. f.). https://git-scm.com/docs/git-switch
+Northware. (2022, 29 julio). Requerimientos en el desarrollo de software y aplicaciones. Northware. https://www.northware.mx/blog/requerimientos-en-el-desarrollo-de-software-y-aplicaciones/#:~:text=Algunos%20de%20los%20requerimientos%20m%C3%A1s%20comunes%20en%20virtud,y%20bases%20de%20datos%205%20Plazos%20de%20finalizaci%C3%B3n
+¿Qué es la gestión de proyectos de software? (s. f.). https://www.wrike.com/es/project-management-guide/faq/que-es-la-gestion-de-proyectos-de-software/
+Team, K. (2022, 20 julio). ¿Qué es fork en Git? | KeepCoding Bootcamps. KeepCoding Bootcamps. https://keepcoding.io/blog/que-es-fork-en-git/#:~:text=La%20funci%C3%B3n%20de%20fork%20en%20Git%20se%20define,el%20que%20se%20realiza%20el%20fork%20en%20Git.
+Villegas, H. (2021, 13 octubre). En resumen: control de versiones. Encora. https://www.encora.com/es/blog/en-resumen-control-de-versiones#:~:text=Puntos%20Clave%201%20El%20control%20de%20versiones%20es,de%20las%20ventajas%20de%20estos%20sistemas.%20M%C3%A1s%20elementos
