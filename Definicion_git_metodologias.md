@@ -1,61 +1,55 @@
 						TAREA CONCEPTOS
 Git push
 ## **"Lo usas para enviar confirmaciones a la rama maestra/principal del repositorio remoto."**
-## **-Subes los archivos a la nube (github)**
+## **-Subes los archivos a la nube Platzi,2021**
 
 Git pull
 ## **"Lo usas para fusionar todos los cambios que hiciste en el repositorio local con el directorio de trabajo local."**
-## **-Traes los cambios de github hacia tu git y los juntas en un archivo.**
+## **-Traes los cambios de github hacia tu git y los juntas en un archivo. Platzi,2021**
 
 Git branch
 ## **"Permite crear una branch nueva"**
-## **-Creas una rama nueva aparte de tu rama principal.**
+## **-Creas una rama nueva aparte de tu rama principal. Platzi,2021**
 
 Git checkout
 ## **"Nos permite crear ramas y navegar entre ellas."**
-## **-Nos permite movernos entre las ramas creadas por git branch.**
+## **-Nos permite movernos entre las ramas creadas por git branch. Platzi,2021**
 
 Git fork
 ## **"Creación de una copia de un repositorio en la cuenta de usuario"**
-## **-Es una opcion de github para poder copiar un repositorio de otra persona a tu propio github.**
+## **-Es una opcion de github para poder copiar un repositorio de otra persona a tu propio github. GitHub Docs, 2024**
 
 Git merge
 ## **"Se usa para fusionar una rama con otra rama activa"**
-## **-Se utiliza para mezclar la informacion de 2 ramas diferentes**
+## **-Se utiliza para mezclar la informacion de 2 ramas diferentes. Platzi,2021**
 
 QA
-## **"La totalidad de las características y propiedades de un producto de software que deben relacionarse con su** 
-## **idoneidad para cumplir con requisitos específicos y previamente definidos."**
-## **-Es la caracteristica que tiene un software de cumplir con los requisitos de software.** 
+## **"La totalidad de las características y propiedades de un producto de software que deben relacionarse con su idoneidad para cumplir con requisitos específicos y previamente definidos."**
+## **-Es la caracteristica que tiene un software de cumplir con los requisitos de software. Garcia, J. 2023** 
 
 Testing o pruebas
-## **"La prueba de software es el proceso de evaluar y verificar que un producto o aplicación de software hace lo** 
-## **que se supone que debe hacer."**
-## **-Realizar ciertos procedimiento para comprobar si el software realizado hace lo que debe hacer.**
+## **"La prueba de software es el proceso de evaluar y verificar que un producto o aplicación de software hace lo que se supone que debe hacer."**
+## **-Realizar ciertos procedimiento para comprobar si el software realizado hace lo que debe hacer. ibm, 2023**
 
 Debugging o Depuración
 ## **"La depuración es el proceso de encontrar y solucionar errores en el código fuente de cualquier software."**
-## **-Son los procedimientos con el cual se realizan los testing o pruebas.**
+## **-Son los procedimientos con el cual se realizan los testing o pruebas. Amazon Web Services, 2023**
 
 Metodologías de proyectos
-## **"Una metodología de desarrollo de software es un conjunto de procesos y prácticas que pueden ayudar a los** 
-## **ingenieros de software a crear software de forma más eficiente."**
-## **-Procesos para hacer mas eficaz el desarollo de proyectos de software.**
+## **"Una metodología de desarrollo de software es un conjunto de procesos y prácticas que pueden ayudar a los ingenieros de software a crear software de forma más eficiente."**
+## **-Procesos para hacer mas eficaz el desarollo de proyectos de software. vgst, 2022**
 
 Metodología en cascada
-## **"En esta metodología de desarrollo de software, los ingenieros y las partes interesadas trabajan juntos** 
-## **para crear un plan detallado. Una vez completado el plan, los ingenieros comienzan a crear el software."**
-## **-Planear todo lo que se realizara durante todo el proyecto al principio y seguir todo ese analisis durante todo el proyectos.**
+## **"En esta metodología de desarrollo de software, los ingenieros y las partes interesadas trabajan juntos para crear un plan detallado. Una vez completado el plan, los ingenieros comienzan a crear el software."**
+## **-Planear todo lo que se realizara durante todo el proyecto al principio y seguir todo ese analisis durante todo el proyectos. vgst, 2022**
 
 Metodologías ágiles
-## **"También conocido como desarrollo ágil, esta metodología valora la creatividad, la colaboración y la** 
-## **asunción de riesgos. Este enfoque utiliza iteraciones cortas, o «sprints», para crear y probar el producto."**
-## **-Dividir el proyecto en multiples sprints, donde planearemos el progreso de 2 a 4 semanas y lo realizaremos hasta culminar el proyecto.**
+## **"También conocido como desarrollo ágil, esta metodología valora la creatividad, la colaboración y la asunción de riesgos. Este enfoque utiliza iteraciones cortas, o «sprints», para crear y probar el producto."**
+## **-Dividir el proyecto en multiples sprints, donde planearemos el progreso de 2 a 4 semanas y lo realizaremos hasta culminar el proyecto. vgst, 2022**
 
 Iteración
-## **"Para la programación, por su parte, la iteración consiste en reiterar un conjunto de instrucciones o**
-## **acciones con uno o varios objetivos."**
-## **-Es el acto de volver a realizar alguna accion.**
+## **"Para la programación, por su parte, la iteración consiste en reiterar un conjunto de instrucciones o acciones con uno o varios objetivos."**
+## **-Es el acto de volver a realizar alguna accion. definicion.de 2023**
 
 BIOBLIOGRAFIA
 Platzi,2021
