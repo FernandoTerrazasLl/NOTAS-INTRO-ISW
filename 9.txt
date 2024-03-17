@@ -1,0 +1,12 @@
+marco de trabajo = Framework =  conjunto de herramientas para desarollar rapido\
+
+SCRUM es un framework de los proyectos agiles;
+SCRUM PROCESS
+1. Product owner nos da un product backlog (tareas)
+2. Sprint Planning Meeting (Reunion para definir las tareas que puede realizar el equipos)
+3. Sprint Backlog (lista posible para realizar en 2 a 4 semanas)
+4. Tendras un daily scrum cada 24h.
+5. Al terminar el tiempo tendras tu finish work.
+6. Tendras una sprint review (reunion sobre el proyecto final terminado)+ sprint retrospective (retroalimentacion, que hice 
+bien y mal, para nos hacerlo el sgte mes).
+7. Vuelve a iniciar el sprint de 2 a 4 semanas.

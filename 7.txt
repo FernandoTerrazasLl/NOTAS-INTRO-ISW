@@ -1,0 +1,18 @@
+TAREA
+
+Quality Assurance
+Testing o Pruebas
+Debugging o depuracion
+Metodologias de proyectos 
+Metodologias en cascada
+Metodologias agiles
+----
+	
+Proyectos 5 PASOS
+- 1. Inicio: Es factible este proyecto?, Seguimos con este proyecto?
+- 2. Planificacion: Objetivo?, indicadores claves de rendimiento(cuanto invertimos, proyectamos ganar, cuanto ganamos);
+alcance, presupuesto, riesgos, miembros del equipo participan; que tareas conlleva
+- 3. Ejecucion, asignar rss necesarios(contratar); garantizar que las personas asignas realicen sus tareas; organizar
+reuniones de estado(CERRADO, para hablar verdades); establecer sistemas de seguimiento
+- 4. Supervision, que pasa si tu proyecto se desvio del camino? Reuniones para reevaluar; renegociar a los jefes
+- 5. Cierre, como fue el proyecto?, salio bien? ganamos plata? 
