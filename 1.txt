@@ -1,4 +1,0 @@
-CLASE 1
-SOFTWARE.- Todo tecnologico intangible que no se puede tocar
-ING.SOFTWARE.-Resolucion de problemas de programas informaticos
-GIT.- Historial de versiones para volver a un codigo anterior
